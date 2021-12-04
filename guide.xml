@@ -1,0 +1,2271 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="QVC">
+    <display-name lang="en">QVC</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Game Show Network - East">
+    <display-name lang="en">Game Show Network - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Jewelry Television">
+    <display-name lang="en">Jewelry Television</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SHOPHQ">
+    <display-name lang="en">SHOPHQ</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="QVC2">
+    <display-name lang="en">QVC2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SALE Network">
+    <display-name lang="en">SALE Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Audience Network">
+    <display-name lang="en">Audience Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 121">
+    <display-name lang="en">DirecTV Sports 121</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 122">
+    <display-name lang="en">DirecTV Sports 122</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 123">
+    <display-name lang="en">DirecTV Sports 123</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 124">
+    <display-name lang="en">DirecTV Sports 124</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HLN">
+    <display-name lang="en">HLN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN News">
+    <display-name lang="en">ESPN News</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN U">
+    <display-name lang="en">ESPN U</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN2">
+    <display-name lang="en">ESPN2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN Alternate">
+    <display-name lang="en">ESPN Alternate</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN2 (Alternate)">
+    <display-name lang="en">ESPN2 (Alternate)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NFL Network">
+    <display-name lang="en">NFL Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MLB Network">
+    <display-name lang="en">MLB Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MavTV USA">
+    <display-name lang="en">MavTV USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NHL Network USA">
+    <display-name lang="en">NHL Network USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NHL Network USA Alternate">
+    <display-name lang="en">NHL Network USA Alternate</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBA TV USA">
+    <display-name lang="en">NBA TV USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="The Tennis Channel">
+    <display-name lang="en">The Tennis Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Golf Channel USA">
+    <display-name lang="en">Golf Channel USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports 1">
+    <display-name lang="en">Fox Sports 1</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Network">
+    <display-name lang="en">NBC Sports Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CBS Sports Network USA">
+    <display-name lang="en">CBS Sports Network USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Gem Shopping Network">
+    <display-name lang="en">Gem Shopping Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HGTV USA - Eastern Feed">
+    <display-name lang="en">HGTV USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Do It Yourself Network (USA) - East">
+    <display-name lang="en">Do It Yourself Network (USA) - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Food Network USA - Eastern Feed">
+    <display-name lang="en">Food Network USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="The Cooking Channel">
+    <display-name lang="en">The Cooking Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="E! Entertainment USA - Eastern Feed">
+    <display-name lang="en">E! Entertainment USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Bravo USA - Eastern Feed">
+    <display-name lang="en">Bravo USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ReelzChannel">
+    <display-name lang="en">ReelzChannel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HSN  - Home Shopping Network">
+    <display-name lang="en">HSN  - Home Shopping Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Paramount Network USA - Eastern Feed">
+    <display-name lang="en">Paramount Network USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="USA Network - East Feed">
+    <display-name lang="en">USA Network - East Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Syfy - Eastern Feed">
+    <display-name lang="en">Syfy - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TNT - Eastern Feed">
+    <display-name lang="en">TNT - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="truTV USA - Eastern">
+    <display-name lang="en">truTV USA - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TBS - East">
+    <display-name lang="en">TBS - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FX Networks East Coast">
+    <display-name lang="en">FX Networks East Coast</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Comedy Central (US) - Eastern Feed">
+    <display-name lang="en">Comedy Central (US) - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Oxygen - Eastern Feed">
+    <display-name lang="en">Oxygen - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Lifetime Network US - Eastern Feed">
+    <display-name lang="en">Lifetime Network US - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Lifetime Movies - East">
+    <display-name lang="en">Lifetime Movies - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AMC - Eastern Feed">
+    <display-name lang="en">AMC - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Turner Classic Movies USA">
+    <display-name lang="en">Turner Classic Movies USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FX Movie Channel">
+    <display-name lang="en">FX Movie Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FXX USA - Eastern">
+    <display-name lang="en">FXX USA - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="WE (Womens Entertainment) - Eastern">
+    <display-name lang="en">WE (Womens Entertainment) - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Discovery Life Channel">
+    <display-name lang="en">Discovery Life Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="BBC America - East">
+    <display-name lang="en">BBC America - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="A&amp;E US - Eastern Feed">
+    <display-name lang="en">A&amp;E US - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FYI USA - Eastern">
+    <display-name lang="en">FYI USA - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="History Channel US - Eastern Feed">
+    <display-name lang="en">History Channel US - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="VICE">
+    <display-name lang="en">VICE</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="LOGO - East">
+    <display-name lang="en">LOGO - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="POP - East">
+    <display-name lang="en">POP - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Ovation">
+    <display-name lang="en">Ovation</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="National Geographic US - Eastern">
+    <display-name lang="en">National Geographic US - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Travel US - East">
+    <display-name lang="en">Travel US - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Discovery Channel (US) - Eastern Feed">
+    <display-name lang="en">Discovery Channel (US) - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Oprah Winfrey Network USA Eastern">
+    <display-name lang="en">Oprah Winfrey Network USA Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TLC USA - Eastern">
+    <display-name lang="en">TLC USA - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Motor Trend HD">
+    <display-name lang="en">Motor Trend HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Animal Planet US - East">
+    <display-name lang="en">Animal Planet US - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="en">National Geographic Wild</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Science">
+    <display-name lang="en">Science</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Investigation Discovery USA - Eastern">
+    <display-name lang="en">Investigation Discovery USA - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Destination America">
+    <display-name lang="en">Destination America</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="American Heroes Channel">
+    <display-name lang="en">American Heroes Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Disney Junior USA - East">
+    <display-name lang="en">Disney Junior USA - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Disney - Eastern Feed">
+    <display-name lang="en">Disney - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Disney - Pacific Feed">
+    <display-name lang="en">Disney - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Disney XD USA - Eastern Feed">
+    <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Baby First TV">
+    <display-name lang="en">Baby First TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Discovery Family Channel">
+    <display-name lang="en">Discovery Family Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Universal Kids">
+    <display-name lang="en">Universal Kids</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cartoon Network USA - Eastern Feed">
+    <display-name lang="en">Cartoon Network USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cartoon Network USA - Pacific Feed">
+    <display-name lang="en">Cartoon Network USA - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="en">Boomerang</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Nickelodeon USA - East Feed">
+    <display-name lang="en">Nickelodeon USA - East Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Nickelodeon USA - Pacific Feed">
+    <display-name lang="en">Nickelodeon USA - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Nick Jr. - East">
+    <display-name lang="en">Nick Jr. - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Nicktoons - East">
+    <display-name lang="en">Nicktoons - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TeenNick - Eastern">
+    <display-name lang="en">TeenNick - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TV Land - Eastern">
+    <display-name lang="en">TV Land - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ION  - Eastern Feed">
+    <display-name lang="en">ION  - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ION  - Pacific Feed">
+    <display-name lang="en">ION  - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="WGN America - Eastern Feed">
+    <display-name lang="en">WGN America - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Freeform - East Feed">
+    <display-name lang="en">Freeform - East Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Hallmark - Eastern Feed">
+    <display-name lang="en">Hallmark - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Family Entertainment TV">
+    <display-name lang="en">Family Entertainment TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Americas Auction Channel">
+    <display-name lang="en">Americas Auction Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="GAC - Great American Country">
+    <display-name lang="en">GAC - Great American Country</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CMT US - Eastern Feed">
+    <display-name lang="en">CMT US - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TV One">
+    <display-name lang="en">TV One</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="BET - Eastern Feed">
+    <display-name lang="en">BET - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="BET Her">
+    <display-name lang="en">BET Her</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MTV USA - Eastern Feed">
+    <display-name lang="en">MTV USA - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MTV 2 - East">
+    <display-name lang="en">MTV 2 - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="VH1 - Eastern Feed">
+    <display-name lang="en">VH1 - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MTV Classic - East">
+    <display-name lang="en">MTV Classic - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="UP">
+    <display-name lang="en">UP</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FUSE TV - Eastern feed">
+    <display-name lang="en">FUSE TV - Eastern feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AXS TV USA HD">
+    <display-name lang="en">AXS TV USA HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="El Rey Network">
+    <display-name lang="en">El Rey Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fusion">
+    <display-name lang="en">Fusion</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SonLife Network">
+    <display-name lang="en">SonLife Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="RFD-TV">
+    <display-name lang="en">RFD-TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="BBC World - North America HD">
+    <display-name lang="en">BBC World - North America HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Free Speech Network">
+    <display-name lang="en">Free Speech Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NewsMax TV">
+    <display-name lang="en">NewsMax TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="C-SPAN">
+    <display-name lang="en">C-SPAN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="C-SPAN 2">
+    <display-name lang="en">C-SPAN 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NASA Public Educational Channel">
+    <display-name lang="en">NASA Public Educational Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Bloomberg TV USA">
+    <display-name lang="en">Bloomberg TV USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CNBC USA">
+    <display-name lang="en">CNBC USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MSNBC USA">
+    <display-name lang="en">MSNBC USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CNBC World">
+    <display-name lang="en">CNBC World</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Business">
+    <display-name lang="en">Fox Business</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="en">Fox News</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="WeatherNation">
+    <display-name lang="en">WeatherNation</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="The Weather Channel">
+    <display-name lang="en">The Weather Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="GEB America">
+    <display-name lang="en">GEB America</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="INSP">
+    <display-name lang="en">INSP</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="God TV USA">
+    <display-name lang="en">God TV USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Jewish Life Television">
+    <display-name lang="en">Jewish Life Television</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="World Harvest Television">
+    <display-name lang="en">World Harvest Television</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Hope Channel">
+    <display-name lang="en">Hope Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Daystar  - Network">
+    <display-name lang="en">Daystar  - Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="EWTN USA">
+    <display-name lang="en">EWTN USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Hillsong (K64FT) Alexandria, LA">
+    <display-name lang="en">Hillsong (K64FT) Alexandria, LA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TBN  - Trinity Broadcasting Network - East">
+    <display-name lang="en">TBN  - Trinity Broadcasting Network - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="The Word Network">
+    <display-name lang="en">The Word Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="BYU (Brigham Young University)">
+    <display-name lang="en">BYU (Brigham Young University)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Link TV">
+    <display-name lang="en">Link TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CTN - Christian Television Network">
+    <display-name lang="en">CTN - Christian Television Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TCT - Network">
+    <display-name lang="en">TCT - Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="National Religious Broadcasting - East">
+    <display-name lang="en">National Religious Broadcasting - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Impact Television Network">
+    <display-name lang="en">Impact Television Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ASPiRE TV">
+    <display-name lang="en">ASPiRE TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Comedy.TV">
+    <display-name lang="en">Comedy.TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Justice Central">
+    <display-name lang="en">Justice Central</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MBC Drama (Korean)">
+    <display-name lang="en">MBC Drama (Korean)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="PBS - Network HD - Eastern">
+    <display-name lang="en">PBS - Network HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CBS (WCBS) New York, NY">
+    <display-name lang="en">CBS (WCBS) New York, NY</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CBS (KCBS) Los Angeles, CA">
+    <display-name lang="en">CBS (KCBS) Los Angeles, CA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC (WNBC) New York, NY">
+    <display-name lang="en">NBC (WNBC) New York, NY</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC (KNBC) Los Angeles, CA">
+    <display-name lang="en">NBC (KNBC) Los Angeles, CA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CW (WDCW) District of Columbia">
+    <display-name lang="en">CW (WDCW) District of Columbia</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CW (KFMB-TV2) San Diego, CA">
+    <display-name lang="en">CW (KFMB-TV2) San Diego, CA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ABC (WABC) New York, NY">
+    <display-name lang="en">ABC (WABC) New York, NY</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ABC (KABC) Los Angeles, CA">
+    <display-name lang="en">ABC (KABC) Los Angeles, CA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FOX (WNYW) New York, NY">
+    <display-name lang="en">FOX (WNYW) New York, NY</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FOX (KTTV) Los Angeles, CA">
+    <display-name lang="en">FOX (KTTV) Los Angeles, CA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Univision - Eastern Feed">
+    <display-name lang="en">Univision - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Univision - Pacific Feed">
+    <display-name lang="en">Univision - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Galavision - Eastern Feed">
+    <display-name lang="en">Galavision - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Mega TV">
+    <display-name lang="en">Mega TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Telemundo  - Eastern Feed">
+    <display-name lang="en">Telemundo  - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Telemundo  - Pacific Feed">
+    <display-name lang="en">Telemundo  - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="UniMás  - Network Pacific">
+    <display-name lang="en">UniMás  - Network Pacific</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Universo - Eastern feed">
+    <display-name lang="en">NBC Universo - Eastern feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Discovery en Espanol">
+    <display-name lang="en">Discovery en Espanol</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Wapa America">
+    <display-name lang="en">Wapa America</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="RCN Nuestra Tele">
+    <display-name lang="en">RCN Nuestra Tele</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Caracol TV Internacional">
+    <display-name lang="en">Caracol TV Internacional</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Nuestra Tele">
+    <display-name lang="en">Nuestra Tele</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CNN Español">
+    <display-name lang="en">CNN Español</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="IVC Net">
+    <display-name lang="en">IVC Net</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="CentroAmérica TV">
+    <display-name lang="en">CentroAmérica TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Telecentro">
+    <display-name lang="en">Telecentro</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Perú Mágico">
+    <display-name lang="en">Perú Mágico</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Bandamax">
+    <display-name lang="en">Bandamax</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="National Geographic Mundo">
+    <display-name lang="en">National Geographic Mundo</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Discovery Familia">
+    <display-name lang="en">Discovery Familia</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="V-Me Television HD">
+    <display-name lang="en">V-Me Television HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Azteca America - East">
+    <display-name lang="en">Azteca America - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="History Channel Espanol - Eastern">
+    <display-name lang="en">History Channel Espanol - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MTV Tr3s - East">
+    <display-name lang="en">MTV Tr3s - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Canal Once (Mexico)">
+    <display-name lang="en">Canal Once (Mexico)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Enlace">
+    <display-name lang="en">Enlace</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cine Sony">
+    <display-name lang="en">Cine Sony</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ViendoMovies">
+    <display-name lang="en">ViendoMovies</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="De Pelicula">
+    <display-name lang="en">De Pelicula</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FOROtv">
+    <display-name lang="en">FOROtv</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HITN">
+    <display-name lang="en">HITN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cine Mexicano">
+    <display-name lang="en">Cine Mexicano</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TUDN">
+    <display-name lang="en">TUDN</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Deportes">
+    <display-name lang="en">Fox Deportes</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN Deportes">
+    <display-name lang="en">ESPN Deportes</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Gol TV USA">
+    <display-name lang="en">Gol TV USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TyC Sports">
+    <display-name lang="en">TyC Sports</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (471)">
+    <display-name lang="en">DirecTV MLS Direct Kick (471)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (472)">
+    <display-name lang="en">DirecTV MLS Direct Kick (472)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (473)">
+    <display-name lang="en">DirecTV MLS Direct Kick (473)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (474)">
+    <display-name lang="en">DirecTV MLS Direct Kick (474)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (475)">
+    <display-name lang="en">DirecTV MLS Direct Kick (475)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (476)">
+    <display-name lang="en">DirecTV MLS Direct Kick (476)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (477)">
+    <display-name lang="en">DirecTV MLS Direct Kick (477)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (478)">
+    <display-name lang="en">DirecTV MLS Direct Kick (478)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLS Direct Kick (479)">
+    <display-name lang="en">DirecTV MLS Direct Kick (479)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Premier League Extra Time 1">
+    <display-name lang="en">Premier League Extra Time 1</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Premier League Extra Time 2">
+    <display-name lang="en">Premier League Extra Time 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Premier League Extra Time 3">
+    <display-name lang="en">Premier League Extra Time 3</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Premier League Extra Time 4">
+    <display-name lang="en">Premier League Extra Time 4</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Premier League Extra Time 5">
+    <display-name lang="en">Premier League Extra Time 5</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO - Eastern Feed">
+    <display-name lang="en">HBO - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO 2 - Eastern Feed">
+    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Signature (HBO 3) - Eastern">
+    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO - Pacific Feed">
+    <display-name lang="en">HBO - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO 2 - Pacific Feed">
+    <display-name lang="en">HBO 2 - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Comedy HD - East">
+    <display-name lang="en">HBO Comedy HD - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Family - Eastern Feed">
+    <display-name lang="en">HBO Family - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Family - Pacific Feed">
+    <display-name lang="en">HBO Family - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Zone HD - East">
+    <display-name lang="en">HBO Zone HD - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HBO Latino (HBO 7) - Eastern">
+    <display-name lang="en">HBO Latino (HBO 7) - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cinemax - Eastern Feed">
+    <display-name lang="en">Cinemax - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cinemax - Pacific Feed">
+    <display-name lang="en">Cinemax - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MoreMax  Eastern">
+    <display-name lang="en">MoreMax  Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ActionMax - Eastern">
+    <display-name lang="en">ActionMax - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="5 Star Max - Eastern">
+    <display-name lang="en">5 Star Max - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MovieMax (Max 6) - East">
+    <display-name lang="en">MovieMax (Max 6) - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ThrillerMax - East">
+    <display-name lang="en">ThrillerMax - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Cinemax - Eastern HD">
+    <display-name lang="en">Cinemax - Eastern HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz - Eastern">
+    <display-name lang="en">Starz - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz - Pacific">
+    <display-name lang="en">Starz - Pacific</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Kids &amp; Family - Eastern">
+    <display-name lang="en">Starz Kids &amp; Family - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Comedy HD - Eastern">
+    <display-name lang="en">Starz Comedy HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Edge - Eastern">
+    <display-name lang="en">Starz Edge - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz In Black - Eastern">
+    <display-name lang="en">Starz In Black - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Cinema HD - Eastern">
+    <display-name lang="en">Starz Cinema HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore - Eastern">
+    <display-name lang="en">Starz Encore - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore - Pacific">
+    <display-name lang="en">Starz Encore - Pacific</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore Classic - Eastern">
+    <display-name lang="en">Starz Encore Classic - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore Westerns - Eastern">
+    <display-name lang="en">Starz Encore Westerns - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore Suspense - Eastern">
+    <display-name lang="en">Starz Encore Suspense - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore Black - Eastern">
+    <display-name lang="en">Starz Encore Black - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore Action - Eastern">
+    <display-name lang="en">Starz Encore Action - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Starz Encore Family - Eastern">
+    <display-name lang="en">Starz Encore Family - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime - Eastern Feed">
+    <display-name lang="en">Showtime - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime West">
+    <display-name lang="en">Showtime West</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime 2 - Eastern">
+    <display-name lang="en">Showtime 2 - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime Showcase - Eastern">
+    <display-name lang="en">Showtime Showcase - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime Extreme - Eastern">
+    <display-name lang="en">Showtime Extreme - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime Beyond HD - East">
+    <display-name lang="en">Showtime Beyond HD - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime Next HD - Eastern">
+    <display-name lang="en">Showtime Next HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Showtime Women HD - Eastern">
+    <display-name lang="en">Showtime Women HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TMC (US) - Eastern Feed">
+    <display-name lang="en">TMC (US) - Eastern Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TMC (US) - Pacific Feed">
+    <display-name lang="en">TMC (US) - Pacific Feed</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TMC Xtra HD - Eastern">
+    <display-name lang="en">TMC Xtra HD - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FLIX - Eastern">
+    <display-name lang="en">FLIX - Eastern</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SundanceTV USA - East">
+    <display-name lang="en">SundanceTV USA - East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Independent Film Channel US">
+    <display-name lang="en">Independent Film Channel US</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Hallmark Movies &amp; Mysteries Eastern - HD">
+    <display-name lang="en">Hallmark Movies &amp; Mysteries Eastern - HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="HDNet Movies HD">
+    <display-name lang="en">HDNet Movies HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MGM HD (USA)">
+    <display-name lang="en">MGM HD (USA)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Sony Movie Channel">
+    <display-name lang="en">Sony Movie Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Olympic Channel">
+    <display-name lang="en">Olympic Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Smithsonian Channel USA HD">
+    <display-name lang="en">Smithsonian Channel USA HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Crime &amp; Investigation Network USA HD">
+    <display-name lang="en">Crime &amp; Investigation Network USA HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Playboy Interactive">
+    <display-name lang="en">Playboy Interactive</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Playboy HD">
+    <display-name lang="en">Playboy HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Playboy">
+    <display-name lang="en">Playboy</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Hustler TV USA On Demand">
+    <display-name lang="en">Hustler TV USA On Demand</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Penthouse TV USA">
+    <display-name lang="en">Penthouse TV USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Brazzers TV">
+    <display-name lang="en">Brazzers TV</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="TVG - Television Games Network">
+    <display-name lang="en">TVG - Television Games Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Pursuit Channel">
+    <display-name lang="en">Pursuit Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Sportsman Channel">
+    <display-name lang="en">Sportsman Channel</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Outdoor Channel US">
+    <display-name lang="en">Outdoor Channel US</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox College Sports - Atlantic">
+    <display-name lang="en">Fox College Sports - Atlantic</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox College Sports - Central">
+    <display-name lang="en">Fox College Sports - Central</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox College Sports - Pacific">
+    <display-name lang="en">Fox College Sports - Pacific</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Big Ten Network">
+    <display-name lang="en">Big Ten Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Big Ten Network Overflow 1">
+    <display-name lang="en">Big Ten Network Overflow 1</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Big Ten Network Overflow 2">
+    <display-name lang="en">Big Ten Network Overflow 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Big Ten Network Overflow 3">
+    <display-name lang="en">Big Ten Network Overflow 3</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Big Ten Network Overflow 4">
+    <display-name lang="en">Big Ten Network Overflow 4</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SEC Network">
+    <display-name lang="en">SEC Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SEC Network Alternate">
+    <display-name lang="en">SEC Network Alternate</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ACC Network">
+    <display-name lang="en">ACC Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN Classics USA">
+    <display-name lang="en">ESPN Classics USA</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="ESPN Goal Line">
+    <display-name lang="en">ESPN Goal Line</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="en">Fox Sports 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FOX Soccer Plus">
+    <display-name lang="en">FOX Soccer Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FOX Soccer Plus HD">
+    <display-name lang="en">FOX Soccer Plus HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Eleven Sports">
+    <display-name lang="en">Eleven Sports</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="New England Sports Network">
+    <display-name lang="en">New England Sports Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="New England Sports Network Plus">
+    <display-name lang="en">New England Sports Network Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Boston">
+    <display-name lang="en">NBC Sports Boston</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="YES Network">
+    <display-name lang="en">YES Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="YES 2 Overflow">
+    <display-name lang="en">YES 2 Overflow</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MSG (Madison Square Gardens)">
+    <display-name lang="en">MSG (Madison Square Gardens)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MSG Plus">
+    <display-name lang="en">MSG Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MSG - Syracuse">
+    <display-name lang="en">MSG - Syracuse</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MSG Plus - Syracuse">
+    <display-name lang="en">MSG Plus - Syracuse</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="MSG 2">
+    <display-name lang="en">MSG 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="SNY: SportsNet New York (Comcast)">
+    <display-name lang="en">SNY: SportsNet New York (Comcast)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Mid-Atlantic Sports Network">
+    <display-name lang="en">Mid-Atlantic Sports Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Mid-Atlantic Sports Network 2">
+    <display-name lang="en">Mid-Atlantic Sports Network 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Washington">
+    <display-name lang="en">NBC Sports Washington</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Washington Plus">
+    <display-name lang="en">NBC Sports Washington Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports South">
+    <display-name lang="en">Fox Sports South</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports South - Carolinas">
+    <display-name lang="en">Fox Sports South - Carolinas</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports South - TN Nashville">
+    <display-name lang="en">Fox Sports South - TN Nashville</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southeast">
+    <display-name lang="en">Fox Sports Southeast</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southeast - North Carolina">
+    <display-name lang="en">Fox Sports Southeast - North Carolina</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southeast - Tennessee East">
+    <display-name lang="en">Fox Sports Southeast - Tennessee East</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southeast - Tennessee">
+    <display-name lang="en">Fox Sports Southeast - Tennessee</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southeast - South Carolina">
+    <display-name lang="en">Fox Sports Southeast - South Carolina</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southeast - Georgia">
+    <display-name lang="en">Fox Sports Southeast - Georgia</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southeast - Tennessee Nashville">
+    <display-name lang="en">Fox Sports Southeast - Tennessee Nashville</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Sun - Lightning/Magic">
+    <display-name lang="en">Fox Sports Sun - Lightning/Magic</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Sun - Lightning/Magic HD">
+    <display-name lang="en">Fox Sports Sun - Lightning/Magic HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida">
+    <display-name lang="en">Fox Sports Florida</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida 1">
+    <display-name lang="en">Fox Sports Florida 1</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida 2">
+    <display-name lang="en">Fox Sports Florida 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Florida 1 HD">
+    <display-name lang="en">Fox Sports Florida 1 HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AT&amp;T Sportsnet  Pittsburgh">
+    <display-name lang="en">AT&amp;T Sportsnet  Pittsburgh</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Ohio - Cleveland">
+    <display-name lang="en">Fox Sports Ohio - Cleveland</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Ohio - Cleveland HD">
+    <display-name lang="en">Fox Sports Ohio - Cleveland HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Ohio - Cincinnati (2)">
+    <display-name lang="en">Fox Sports Ohio - Cincinnati (2)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Ohio - Cincinnati (2) HD">
+    <display-name lang="en">Fox Sports Ohio - Cincinnati (2) HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Sportstime Ohio">
+    <display-name lang="en">Sportstime Ohio</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Detroit">
+    <display-name lang="en">Fox Sports Detroit</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Detroit +">
+    <display-name lang="en">Fox Sports Detroit +</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Chicago">
+    <display-name lang="en">NBC Sports Chicago</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Chicago Plus">
+    <display-name lang="en">NBC Sports Chicago Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Chicago Plus 2">
+    <display-name lang="en">NBC Sports Chicago Plus 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports North">
+    <display-name lang="en">Fox Sports North</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Wisconsin">
+    <display-name lang="en">Fox Sports Wisconsin</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Midwest - St. Louis">
+    <display-name lang="en">Fox Sports Midwest - St. Louis</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Midwest - Kansas State">
+    <display-name lang="en">Fox Sports Midwest - Kansas State</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Indiana">
+    <display-name lang="en">Fox Sports Indiana</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Midwest - Kansas City">
+    <display-name lang="en">Fox Sports Midwest - Kansas City</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AT&amp;T Sportsnet Southwest - Houston">
+    <display-name lang="en">AT&amp;T Sportsnet Southwest - Houston</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southwest - OK2">
+    <display-name lang="en">Fox Sports Southwest - OK2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southwest - OK2 HD Southwest Plus">
+    <display-name lang="en">Fox Sports Southwest - OK2 HD Southwest Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southwest">
+    <display-name lang="en">Fox Sports Southwest</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Southwest - San Antonio">
+    <display-name lang="en">Fox Sports Southwest - San Antonio</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="FOX Sports Southwest - Houston">
+    <display-name lang="en">FOX Sports Southwest - Houston</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports New Orleans">
+    <display-name lang="en">Fox Sports New Orleans</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Oklahoma">
+    <display-name lang="en">Fox Sports Oklahoma</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Longhorn Network">
+    <display-name lang="en">Longhorn Network</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Altitude Sports">
+    <display-name lang="en">Altitude Sports</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Altitude 2">
+    <display-name lang="en">Altitude 2</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AT&amp;T Sportsnet Rocky Mountains">
+    <display-name lang="en">AT&amp;T Sportsnet Rocky Mountains</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AT&amp;T Sportsnet Rocky Mountain - Utah">
+    <display-name lang="en">AT&amp;T Sportsnet Rocky Mountain - Utah</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AT&amp;T Sportsnet Rocky Mountains - West HD">
+    <display-name lang="en">AT&amp;T Sportsnet Rocky Mountains - West HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Arizona">
+    <display-name lang="en">Fox Sports Arizona</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Arizona Plus">
+    <display-name lang="en">Fox Sports Arizona Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Arizona - N.NM">
+    <display-name lang="en">Fox Sports Arizona - N.NM</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports Arizona - Alt B.">
+    <display-name lang="en">Fox Sports Arizona - Alt B.</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Root Sports Northwest">
+    <display-name lang="en">Root Sports Northwest</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Root Sports Northwest - Seattle">
+    <display-name lang="en">Root Sports Northwest - Seattle</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Spectrum SportsNet">
+    <display-name lang="en">Spectrum SportsNet</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports West">
+    <display-name lang="en">Fox Sports West</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports West Prime Ticket">
+    <display-name lang="en">Fox Sports West Prime Ticket</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Fox Sports San Diego">
+    <display-name lang="en">Fox Sports San Diego</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Bay Area">
+    <display-name lang="en">NBC Sports Bay Area</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Bay Area/California Plus">
+    <display-name lang="en">NBC Sports Bay Area/California Plus</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports California">
+    <display-name lang="en">NBC Sports California</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NBC Sports Bay Area/California Plus HD">
+    <display-name lang="en">NBC Sports Bay Area/California Plus HD</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="NFL Red Zone">
+    <display-name lang="en">NFL Red Zone</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 701">
+    <display-name lang="en">DirecTV Sports 701</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 702">
+    <display-name lang="en">DirecTV Sports 702</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 703">
+    <display-name lang="en">DirecTV Sports 703</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 704">
+    <display-name lang="en">DirecTV Sports 704</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 705">
+    <display-name lang="en">DirecTV Sports 705</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 706">
+    <display-name lang="en">DirecTV Sports 706</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 707">
+    <display-name lang="en">DirecTV Sports 707</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 708">
+    <display-name lang="en">DirecTV Sports 708</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 709">
+    <display-name lang="en">DirecTV Sports 709</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 710">
+    <display-name lang="en">DirecTV Sports 710</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 711">
+    <display-name lang="en">DirecTV Sports 711</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 712">
+    <display-name lang="en">DirecTV Sports 712</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 713">
+    <display-name lang="en">DirecTV Sports 713</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 714">
+    <display-name lang="en">DirecTV Sports 714</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 715">
+    <display-name lang="en">DirecTV Sports 715</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 716">
+    <display-name lang="en">DirecTV Sports 716</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 717">
+    <display-name lang="en">DirecTV Sports 717</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 718">
+    <display-name lang="en">DirecTV Sports 718</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 719">
+    <display-name lang="en">DirecTV Sports 719</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV Sports 720">
+    <display-name lang="en">DirecTV Sports 720</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (721)">
+    <display-name lang="en">DirecTV MLB Extra Innings (721)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (722)">
+    <display-name lang="en">DirecTV MLB Extra Innings (722)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (723)">
+    <display-name lang="en">DirecTV MLB Extra Innings (723)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (724)">
+    <display-name lang="en">DirecTV MLB Extra Innings (724)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (725)">
+    <display-name lang="en">DirecTV MLB Extra Innings (725)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (726)">
+    <display-name lang="en">DirecTV MLB Extra Innings (726)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (727)">
+    <display-name lang="en">DirecTV MLB Extra Innings (727)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (728)">
+    <display-name lang="en">DirecTV MLB Extra Innings (728)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (729)">
+    <display-name lang="en">DirecTV MLB Extra Innings (729)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (730)">
+    <display-name lang="en">DirecTV MLB Extra Innings (730)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (731)">
+    <display-name lang="en">DirecTV MLB Extra Innings (731)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (732)">
+    <display-name lang="en">DirecTV MLB Extra Innings (732)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (733)">
+    <display-name lang="en">DirecTV MLB Extra Innings (733)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (734)">
+    <display-name lang="en">DirecTV MLB Extra Innings (734)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (735)">
+    <display-name lang="en">DirecTV MLB Extra Innings (735)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (736)">
+    <display-name lang="en">DirecTV MLB Extra Innings (736)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (737)">
+    <display-name lang="en">DirecTV MLB Extra Innings (737)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings HD (728)">
+    <display-name lang="en">DirecTV MLB Extra Innings HD (728)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (739)">
+    <display-name lang="en">DirecTV MLB Extra Innings (739)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (740)">
+    <display-name lang="en">DirecTV MLB Extra Innings (740)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (741)">
+    <display-name lang="en">DirecTV MLB Extra Innings (741)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (742)">
+    <display-name lang="en">DirecTV MLB Extra Innings (742)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (743)">
+    <display-name lang="en">DirecTV MLB Extra Innings (743)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (744)">
+    <display-name lang="en">DirecTV MLB Extra Innings (744)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (745)">
+    <display-name lang="en">DirecTV MLB Extra Innings (745)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (746)">
+    <display-name lang="en">DirecTV MLB Extra Innings (746)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (747)">
+    <display-name lang="en">DirecTV MLB Extra Innings (747)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (748)">
+    <display-name lang="en">DirecTV MLB Extra Innings (748)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV MLB Extra Innings (749)">
+    <display-name lang="en">DirecTV MLB Extra Innings (749)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (750)">
+    <display-name lang="en">DirecTV NBA League Pass (750)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (751)">
+    <display-name lang="en">DirecTV NBA League Pass (751)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (752)">
+    <display-name lang="en">DirecTV NBA League Pass (752)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (753)">
+    <display-name lang="en">DirecTV NBA League Pass (753)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (754)">
+    <display-name lang="en">DirecTV NBA League Pass (754)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (755)">
+    <display-name lang="en">DirecTV NBA League Pass (755)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (756)">
+    <display-name lang="en">DirecTV NBA League Pass (756)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (757)">
+    <display-name lang="en">DirecTV NBA League Pass (757)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (758)">
+    <display-name lang="en">DirecTV NBA League Pass (758)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (759)">
+    <display-name lang="en">DirecTV NBA League Pass (759)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (760)">
+    <display-name lang="en">DirecTV NBA League Pass (760)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (761)">
+    <display-name lang="en">DirecTV NBA League Pass (761)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (762)">
+    <display-name lang="en">DirecTV NBA League Pass (762)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (763)">
+    <display-name lang="en">DirecTV NBA League Pass (763)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (764)">
+    <display-name lang="en">DirecTV NBA League Pass (764)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (765)">
+    <display-name lang="en">DirecTV NBA League Pass (765)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (766)">
+    <display-name lang="en">DirecTV NBA League Pass (766)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (767)">
+    <display-name lang="en">DirecTV NBA League Pass (767)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="DirecTV NBA League Pass (768)">
+    <display-name lang="en">DirecTV NBA League Pass (768)</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="AZTECA UNO">
+    <display-name lang="es">AZTECA UNO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL DE LAS ESTRELLAS">
+    <display-name lang="es">CANAL DE LAS ESTRELLAS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="IMAGEN TELEVISION">
+    <display-name lang="es">IMAGEN TELEVISION</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL 5">
+    <display-name lang="es">CANAL 5</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="AZTECA 7">
+    <display-name lang="es">AZTECA 7</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="A+">
+    <display-name lang="es">A+</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL 11">
+    <display-name lang="es">CANAL 11</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="UNA VOZ CON TODOS">
+    <display-name lang="es">UNA VOZ CON TODOS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TV UNAM">
+    <display-name lang="es">TV UNAM</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL 22 CONACULTA">
+    <display-name lang="es">CANAL 22 CONACULTA</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ADN 40">
+    <display-name lang="es">ADN 40</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL DEL CONGRESO">
+    <display-name lang="es">CANAL DEL CONGRESO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL JUDICIAL">
+    <display-name lang="es">CANAL JUDICIAL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="INGENIO">
+    <display-name lang="es">INGENIO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL 22.2">
+    <display-name lang="es">CANAL 22.2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TELERITMO">
+    <display-name lang="es">TELERITMO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TELEHIT MUSICA">
+    <display-name lang="es">TELEHIT MUSICA</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TELEHIT">
+    <display-name lang="es">TELEHIT</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="BANDAMAX">
+    <display-name lang="es">BANDAMAX</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL DE LAS ESTRELLAS +2">
+    <display-name lang="es">CANAL DE LAS ESTRELLAS +2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FORO TV">
+    <display-name lang="es">FORO TV</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NUEVE">
+    <display-name lang="es">NUEVE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="AGROTENDENCIA">
+    <display-name lang="es">AGROTENDENCIA</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STAR CHANNEL">
+    <display-name lang="es">STAR CHANNEL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="SONY">
+    <display-name lang="es">SONY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="SEIS +">
+    <display-name lang="es">SEIS +</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="UNICABLE">
+    <display-name lang="es">UNICABLE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="WARNER">
+    <display-name lang="es">WARNER</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ENTERTAINMENT">
+    <display-name lang="es">ENTERTAINMENT</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL">
+    <display-name lang="es">UNIVERSAL CHANNEL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="A&amp;E MUNDO">
+    <display-name lang="es">A&amp;E MUNDO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="es">SYFY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TRU TV">
+    <display-name lang="es">TRU TV</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STAR LIFE">
+    <display-name lang="es">STAR LIFE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TLNOVELAS">
+    <display-name lang="es">TLNOVELAS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TNT SERIES">
+    <display-name lang="es">TNT SERIES</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TELEMUNDO">
+    <display-name lang="es">TELEMUNDO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="LIFETIME">
+    <display-name lang="es">LIFETIME</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="AZ CORAZON">
+    <display-name lang="es">AZ CORAZON</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="AZ CLIC">
+    <display-name lang="es">AZ CLIC</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="DISTRITO COMEDIA">
+    <display-name lang="es">DISTRITO COMEDIA</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="COMEDY CENTRAL">
+    <display-name lang="es">COMEDY CENTRAL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TBS VERYFUNNY">
+    <display-name lang="es">TBS VERYFUNNY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HISTORY">
+    <display-name lang="es">HISTORY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="es">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="es">NAT GEO WILD</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="es">H2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="LOVE NATURE">
+    <display-name lang="es">LOVE NATURE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="MARIAVISIÓN">
+    <display-name lang="es">MARIAVISIÓN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ENLACE">
+    <display-name lang="es">ENLACE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="DISNEY">
+    <display-name lang="es">DISNEY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="DISNEY JR">
+    <display-name lang="es">DISNEY JR</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="DISNEY XD">
+    <display-name lang="es">DISNEY XD</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="es">NICKELODEON</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="es">NICK JR</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="BITIME">
+    <display-name lang="es">BITIME</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CANAL 11.2">
+    <display-name lang="es">CANAL 11.2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NAT GEO KIDS">
+    <display-name lang="es">NAT GEO KIDS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="es">CARTOON NETWORK</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="es">BOOMERANG</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="es">BABY TV</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="DE PELICULA">
+    <display-name lang="es">DE PELICULA</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="PARAMOUNT">
+    <display-name lang="es">PARAMOUNT</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="GOLDEN">
+    <display-name lang="es">GOLDEN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="GOLDEN EDGE">
+    <display-name lang="es">GOLDEN EDGE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CINECANAL">
+    <display-name lang="es">CINECANAL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL">
+    <display-name lang="es">STUDIO UNIVERSAL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="es">CINEMAX</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="es">SPACE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FILM ZONE">
+    <display-name lang="es">FILM ZONE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="AZ CINEMA">
+    <display-name lang="es">AZ CINEMA</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="MORBIDO TV">
+    <display-name lang="es">MORBIDO TV</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HBO MUNDI">
+    <display-name lang="es">HBO MUNDI</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="es">HBO FAMILY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HBO XREME">
+    <display-name lang="es">HBO XREME</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="HBO POP">
+    <display-name lang="es">HBO POP</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STAR HITS">
+    <display-name lang="es">STAR HITS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STAR SERIES">
+    <display-name lang="es">STAR SERIES</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STAR FUN">
+    <display-name lang="es">STAR FUN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STAR COMEDY">
+    <display-name lang="es">STAR COMEDY</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STAR ACTION">
+    <display-name lang="es">STAR ACTION</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="es">FOX SPORTS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="es">FOX SPORTS 2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX SPORTS 3">
+    <display-name lang="es">FOX SPORTS 3</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="ADRENALINA SPORTS">
+    <display-name lang="es">ADRENALINA SPORTS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CLAROSPORTS">
+    <display-name lang="es">CLAROSPORTS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CLAROSPORTS 2">
+    <display-name lang="es">CLAROSPORTS 2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CLAROSPORTS 3">
+    <display-name lang="es">CLAROSPORTS 3</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CLAROSPORTS 4">
+    <display-name lang="es">CLAROSPORTS 4</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="CNN EN ESPAÑOL">
+    <display-name lang="es">CNN EN ESPAÑOL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="MILENIO">
+    <display-name lang="es">MILENIO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="EL FINANCIERO">
+    <display-name lang="es">EL FINANCIERO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="FOX NEWS">
+    <display-name lang="es">FOX NEWS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="NTR">
+    <display-name lang="es">NTR</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY POP LATINO ACTUAL">
+    <display-name lang="es">STINGRAY POP LATINO ACTUAL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY LATINO TROPICAL">
+    <display-name lang="es">STINGRAY LATINO TROPICAL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY ROCK EN ESPAÑOL">
+    <display-name lang="es">STINGRAY ROCK EN ESPAÑOL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY MARIACHI PARA SIEMPRE">
+    <display-name lang="es">STINGRAY MARIACHI PARA SIEMPRE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY VIVA MEXICO">
+    <display-name lang="es">STINGRAY VIVA MEXICO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY REGGAETÓN">
+    <display-name lang="es">STINGRAY REGGAETÓN</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY ROMANCE LATINO">
+    <display-name lang="es">STINGRAY ROMANCE LATINO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY SALSA Y MERENGUE">
+    <display-name lang="es">STINGRAY SALSA Y MERENGUE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY LATIN LOUNGE">
+    <display-name lang="es">STINGRAY LATIN LOUNGE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY VIEJITAS PERO BUENÍSIMAS">
+    <display-name lang="es">STINGRAY VIEJITAS PERO BUENÍSIMAS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY HARD ROCK">
+    <display-name lang="es">STINGRAY HARD ROCK</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY ROCK ALTERNATIVO">
+    <display-name lang="es">STINGRAY ROCK ALTERNATIVO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY CLÁSICOS INDIE">
+    <display-name lang="es">STINGRAY CLÁSICOS INDIE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY AÑOS 80">
+    <display-name lang="es">STINGRAY AÑOS 80</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY AÑOS 90">
+    <display-name lang="es">STINGRAY AÑOS 90</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY EXITOS RECIENTES">
+    <display-name lang="es">STINGRAY EXITOS RECIENTES</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY POP ADULTO">
+    <display-name lang="es">STINGRAY POP ADULTO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY SÓLO PARA PEQUES">
+    <display-name lang="es">STINGRAY SÓLO PARA PEQUES</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY JAZZ LATINO">
+    <display-name lang="es">STINGRAY JAZZ LATINO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY MAESTROS DEL JAZZ">
+    <display-name lang="es">STINGRAY MAESTROS DEL JAZZ</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY COCKTAIL LOUNGE">
+    <display-name lang="es">STINGRAY COCKTAIL LOUNGE</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY EL SALON CHILL">
+    <display-name lang="es">STINGRAY EL SALON CHILL</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY ÓPERA PLUS">
+    <display-name lang="es">STINGRAY ÓPERA PLUS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY CLÁSICOS PARA TODOS">
+    <display-name lang="es">STINGRAY CLÁSICOS PARA TODOS</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="STINGRAY ESPECIALES">
+    <display-name lang="es">STINGRAY ESPECIALES</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+</tv>
